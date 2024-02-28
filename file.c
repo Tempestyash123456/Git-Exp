@@ -2,10 +2,10 @@
 
 int main() {
 	
-	int a = 50 ; 
-	int b = 7 ; 
+	int b = 32 ; 
+	int a = 56 ; 
 
-	int c = a + b ; 
+	int a = a + b ; 
 	printf("%d",c);
 	return 0 ; 
 }
